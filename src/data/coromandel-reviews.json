@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Amrendra Tripathi",
+    "rating": 5,
+    "meta": "3 reviews • 4 photos",
+    "summary": "The ambience was very well maintained and beautiful, the staff and hospitality was very nice and appreciable. Food was also delicious, overall it is a must visit.",
+    "highlight": "Beautiful ambience, gracious hospitality, delicious food."
+  },
+  {
+    "name": "Pratyush Prasad",
+    "rating": 5,
+    "meta": "Local Guide • 16 reviews • 32 photos",
+    "summary": "We tried the Rava Dosa and Paniyaram. Both were extremely delicious and definitely a must taste. The service was quick and atmosphere quite vibrant.",
+    "highlight": "Rava Dosa and Paniyaram stood out with quick service."
+  },
+  {
+    "name": "Shubham Agarwal",
+    "rating": 5,
+    "meta": "Local Guide • 52 reviews • 99 photos",
+    "summary": "Truly a hidden gem if you are a south indian food lover. The food was really tasty and quality was top notch. The ambience, cutlery, food quality, quantity and pricing - ALL top notch!",
+    "highlight": "A hidden gem for South Indian food lovers."
+  }
+]
